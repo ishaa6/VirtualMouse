@@ -10,6 +10,9 @@
 ✊ Toggle Gesture Detection - Fist both hands
 
 
+
+
+
 🎮 **GESTURE CONTROLS**
 | Gesture                   | Action                   |
 | ------------------------- | ------------------------ |
@@ -24,3 +27,13 @@
 | **Hand open → Fist**      | Screenshot               |
 | **Open hand near top**    | Scroll up                |
 | **Open hand near bottom** | Scroll down              |
+
+
+
+
+
+🙌 **CREDITS**
+Google MediaPipe
+OpenCV
+pyautogui
+Inspired by various gesture-based interface demos
